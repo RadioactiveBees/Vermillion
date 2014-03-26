@@ -1,3 +1,3 @@
 Vermillion
 ==========
-//Congratulation! If you are reading this, you can read.//
+# Congratulation! If you are reading this, you can read.
